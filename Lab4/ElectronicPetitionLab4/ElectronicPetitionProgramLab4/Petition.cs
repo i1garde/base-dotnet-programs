@@ -38,5 +38,45 @@ namespace ElectronicPetitionsProgramLab2
             Description = petition.Description;
             CreationData = petition.CreationData;
         }
+
+        public static Petition operator ++(Petition petition)
+        {
+            return new Petition{SubscribersAmount = petition.SubscribersAmount + 1};
+        }
+
+        public static Petition operator --(Petition petition)
+        {
+            return new Petition{SubscribersAmount = petition.SubscribersAmount - 1};
+        }
+
+        public static Petition operator +(Petition petitionOne, Petition petitionTwo)
+        {
+            return new Petition{SubscribersAmount = petitionOne.SubscribersAmount + petitionTwo.SubscribersAmount};
+        }
+
+        public static Petition operator -(Petition petitionOne, Petition petitionTwo)
+        {
+            return new Petition{SubscribersAmount = petitionOne.SubscribersAmount - petitionTwo.SubscribersAmount};
+        }
+
+        public static bool operator >(Petition petitionOne, Petition petitionTwo)
+        {
+            return petitionOne.SubscribersAmount > petitionTwo.SubscribersAmount;
+        }
+        
+        public static bool operator <(Petition petitionOne, Petition petitionTwo)
+        {
+            return petitionOne.SubscribersAmount < petitionTwo.SubscribersAmount;
+        }
+
+        public static bool operator true(Petition petition)
+        {
+            return petition.SubscribersAmount < 10;
+        }
+        
+        public static bool operator false(Petition petition)
+        {
+            return petition.SubscribersAmount >= 10;
+        }
     }
 }

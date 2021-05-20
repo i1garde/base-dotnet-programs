@@ -20,12 +20,12 @@ namespace ElectronicPetitionsProgram
         }
         public void CreatePetition()
         {
-            
+            ClientPetitions.Add(new Petition());
         }
 
         public void DeletePetition(Petition petition)
         {
-            
+            ClientPetitions.Remove(petition);
         }
 
         public void EditPetition(Petition petition)
@@ -35,7 +35,7 @@ namespace ElectronicPetitionsProgram
 
         public void SubscribePetition(Petition petition)
         {
-            
+            petition.SubscribersAmount += 1;
         }
     }
 }

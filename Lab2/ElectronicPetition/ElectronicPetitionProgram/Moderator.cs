@@ -1,4 +1,4 @@
-﻿namespace ElectronicPetitionsProgram
+﻿namespace ElectronicPetitionsProgramLab2
 {
     public class Moderator
     {

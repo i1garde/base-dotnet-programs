@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ElectronicPetitionsProgram
+namespace ElectronicPetitionsProgramLab2
 {
     public class Client
     {
@@ -13,6 +13,27 @@ namespace ElectronicPetitionsProgram
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
         public List<Petition> ClientPetitions { get; set; }
+
+        public Client()
+        {
+            Surname = "Default surname";
+            Name = "Default name";
+            Patronymic = "Default patronymic";
+            DateOfBirth = Convert.ToDateTime("01.01.2000");
+            PhoneNumber = "+123456789";
+            Email = "default@email.com";
+        }
+
+        public Client(string surname, string name, string patronymic,
+            DateTime dateOfBirth, string phoneNumber, string email)
+        {
+            Surname = surname;
+            Name = name;
+            Patronymic = patronymic;
+            DateOfBirth = dateOfBirth;
+            PhoneNumber = phoneNumber;
+            Email = email;
+        }
 
         public string GetInfo(Petition petition)
         {

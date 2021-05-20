@@ -1,15 +1,18 @@
-namespace ElectronicPetitionsProgramLab2
-{
-    public class Moderator
-    {
-        public int Id { get; set; }
-        public string Surname { get; set; }
-        public string Name { get; set; }
-        public string Patronymic { get; set; }
+using System;
+using ElectronicPetitionProgramLab5;
 
+namespace ElectronicPetitionsProgramLab5
+{
+    public class Moderator : Client , IModerator
+    {
         public void CheckPetition(Petition petition)
         {
             petition.Description += " Approved by moderator.";
+        }
+
+        public override void Show()
+        {
+            Console.WriteLine("Це модератор.");
         }
     }
 }

@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using ElectronicPetitionProgramLab5;
 
-namespace ElectronicPetitionsProgramLab2
+namespace ElectronicPetitionsProgramLab5
 {
-    public class Client
+    public class Client : User , IClient
     {
-        public int Id { get; set; }
-        public string Surname { get; set; }
-        public string Name { get; set; }
-        public string Patronymic { get; set; }
         public DateTime DateOfBirth { get; set; }
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
@@ -68,6 +65,11 @@ namespace ElectronicPetitionsProgramLab2
         public void SubscribePetition(Petition petition)
         {
             petition.SubscribersAmount += 1;
+        }
+        
+        public override void Show()
+        {
+            Console.WriteLine("Це клiєнт.");
         }
     }
 }

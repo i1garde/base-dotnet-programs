@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace ElectronicPetitionsProgramLab2
+namespace ElectronicPetitionsProgramLab5
 {
     public class Petition
     {

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Threading.Channels;
 
 namespace ElectronicPetitionsProgram
 {
@@ -6,32 +8,15 @@ namespace ElectronicPetitionsProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program starts!");
-
-            Petition petition1 = new Petition()
-            {
-                Id = 1,
-                Name = "First Petition",
-                Description = "Description 1",
-                CreationData = DateTime.Now,
-                SubscribersAmount = 0
-            };
-            Petition petition2 = new Petition()
-            {
-                Id = 2,
-                Name = "Second Petition",
-                Description = "Description 2",
-                CreationData = DateTime.Now,
-                SubscribersAmount = 0
-            };
-            Petition petition3 = new Petition()
-            {
-                Id = 3,
-                Name = "Third Petition",
-                Description = "Description 3",
-                CreationData = DateTime.Now,
-                SubscribersAmount = 0
-            };
+            Console.WriteLine("Початок програми!");
+            Console.WriteLine("4 бригада, ІТ-93");
+            Console.WriteLine();
+            Console.WriteLine("Комаренко Iван");
+            Console.WriteLine("Кашевар Костянтин");
+            Console.WriteLine();
+            
+            Console.ReadLine();
+            Console.WriteLine("Програма закiнчилася!");
         }
     }
 }

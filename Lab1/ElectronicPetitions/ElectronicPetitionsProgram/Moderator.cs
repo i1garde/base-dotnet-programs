@@ -9,7 +9,7 @@
 
         public void CheckPetition(Petition petition)
         {
-            
+            petition.Description += " Approved by moderator.";
         }
     }
 }

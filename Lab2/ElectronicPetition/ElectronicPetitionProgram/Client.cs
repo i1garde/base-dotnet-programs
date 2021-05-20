@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ElectronicPetitionsProgram
+namespace lab2
 {
     public class Client
     {
@@ -13,7 +13,6 @@ namespace ElectronicPetitionsProgram
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
         public List<Petition> ClientPetitions { get; set; }
-
         public string GetInfo(Petition petition)
         {
             return $"Name: {petition.Name}\nDescription: {petition.Description}";

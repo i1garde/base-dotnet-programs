@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ElectronicPetitionProgram
+namespace lab2
 {
     class Program
     {

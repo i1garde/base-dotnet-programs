@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ElectronicPetitionsProgram
+namespace lab2
 {
     public class Category
     {

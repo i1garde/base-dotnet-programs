@@ -28,7 +28,13 @@ namespace ElectronicPetitionProgramLab3
             email = Console.ReadLine();
 
             Client client = new Client(surname, name, patronymic, dateOfBirth, phoneNumber, email);
-            
+            Console.WriteLine("Client data:");
+            Console.WriteLine($"Surname: {client.Surname}\n" +
+                              $"Name: {client.Name}\n" +
+                              $"Patronymic: {client.Patronymic}\n" +
+                              $"Date Of Birth: {client.DateOfBirth}\n" +
+                              $"Phone Number: {client.PhoneNumber}\n" +
+                              $"Email: {client.Email}\n");
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgram\\ElectronicPetitionProgram.csproj",
-      "projectName": "ElectronicPetitionProgram",
-      "projectPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgram\\ElectronicPetitionProgram.csproj",
+      "projectUniqueName": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgramLab2\\ElectronicPetitionProgramLab2.csproj",
+      "projectName": "ElectronicPetitionProgramLab2",
+      "projectPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgramLab2\\ElectronicPetitionProgramLab2.csproj",
       "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgram\\obj\\",
+      "outputPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab2\\ElectronicPetition\\ElectronicPetitionProgramLab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"

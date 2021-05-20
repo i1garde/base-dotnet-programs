@@ -35,6 +35,16 @@ namespace ElectronicPetitionsProgramLab2
             Email = email;
         }
 
+        public Client(Client client)
+        {
+            Surname = client.Surname;
+            Name = client.Name;
+            Patronymic = client.Patronymic;
+            DateOfBirth = client.DateOfBirth;
+            PhoneNumber = client.PhoneNumber;
+            Email = client.Email;
+        }
+
         public string GetInfo(Petition petition)
         {
             return $"Name: {petition.Name}\nDescription: {petition.Description}";

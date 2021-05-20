@@ -14,10 +14,12 @@ namespace ElectronicPetitionsProgramLab2
         
         public Petition()
         {
-            Petition firstPetition = new Petition()
+            Name = "Department";
+            Description = "axaxa";
+            CreationData = DateTime.Now;
+            Category = new Category()
             {
-                Category = new Category() {Name = "political"}, Name = "Department", Description = "axaxa",
-                CreationData = DateTime.Now
+                Name = "Politic"
             };
         }
 

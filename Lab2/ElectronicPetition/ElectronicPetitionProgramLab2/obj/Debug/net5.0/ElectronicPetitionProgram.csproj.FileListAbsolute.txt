@@ -1,0 +1,16 @@
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.exe
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.deps.json
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.runtimeconfig.json
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.runtimeconfig.dev.json
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.dll
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ref\ElectronicPetitionProgram.dll
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\bin\Debug\net5.0\ElectronicPetitionProgram.pdb
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.csprojAssemblyReference.cache
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.AssemblyInfoInputs.cache
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.AssemblyInfo.cs
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.csproj.CoreCompileInputs.cache
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.dll
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ref\ElectronicPetitionProgram.dll
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.pdb
+D:\Prog Proj\C#\base-dotnet-programs\Lab2\ElectronicPetition\ElectronicPetitionProgram\obj\Debug\net5.0\ElectronicPetitionProgram.genruntimeconfig.cache

@@ -6,6 +6,5 @@ namespace ElectronicPetitionsProgram
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public List<Petition> Petitions { get; set; }
     }
 }

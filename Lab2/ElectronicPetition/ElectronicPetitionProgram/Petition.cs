@@ -10,5 +10,6 @@ namespace ElectronicPetitionsProgram
         public string Description { get; set; }
         public DateTime CreationData { get; set; }
         public int SubscribersAmount { get; set; }
+        public Category Category { get; set; }
     }
 }

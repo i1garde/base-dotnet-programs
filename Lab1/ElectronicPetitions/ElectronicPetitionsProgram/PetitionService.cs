@@ -8,12 +8,12 @@ namespace ElectronicPetitionsProgram
         private Category _category;
         public List<Petition> Petitions;
 
-        void FindPetition(Petition petition)
+        public void FindPetition(Petition petition)
         {
             
         }
 
-        void AddPetition(Petition petition)
+        public void AddPetition(Petition petition)
         {
             
         }

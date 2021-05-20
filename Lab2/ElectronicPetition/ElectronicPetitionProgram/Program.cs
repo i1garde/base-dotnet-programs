@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading.Channels;
 using ElectronicPetitionsProgramLab2;
 
 namespace ElectronicPetitionProgramLab2
@@ -12,7 +11,7 @@ namespace ElectronicPetitionProgramLab2
             Console.WriteLine("Створення об'єктiв класу Клiєнт за допомогою конструкторiв:");
             Console.WriteLine("За замовчуванням:");
             Client client1 = new Client();
-            Console.WriteLine($"Surame: {client1.Surname}\n" +
+            Console.WriteLine($"Surname: {client1.Surname}\n" +
                               $"Name: {client1.Name}\n" +
                               $"Patronymic: {client1.Patronymic}\n" +
                               $"Date Of Birth: {client1.DateOfBirth}\n" +

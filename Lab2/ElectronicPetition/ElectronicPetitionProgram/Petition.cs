@@ -27,7 +27,14 @@ namespace ElectronicPetitionsProgramLab2
             Name = name;
             Description = description;
             CreationData = creationData;
-            Petition secondPetition = new Petition();
+        }
+
+        public Petition(Petition petition)
+        {
+            Category = petition.Category;
+            Name = petition.Name;
+            Description = petition.Description;
+            CreationData = petition.CreationData;
         }
     }
 }

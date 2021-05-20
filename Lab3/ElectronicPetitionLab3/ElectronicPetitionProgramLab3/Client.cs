@@ -5,13 +5,97 @@ namespace ElectronicPetitionsProgramLab2
 {
     public class Client
     {
-        public int Id { get; set; }
-        public string Surname { get; set; }
-        public string Name { get; set; }
-        public string Patronymic { get; set; }
-        public DateTime DateOfBirth { get; set; }
-        public string PhoneNumber { get; set; }
-        public string Email { get; set; }
+        private int id;
+        private string surname;
+        private string name;
+        private string patronymic;
+        private DateTime dateOfBirth;
+        private string phoneNumber;
+        private string email;
+        public int Id
+        {
+            get
+            {
+                return this.id;
+            }
+            set
+            {
+                this.id = value;
+            }
+        }
+
+        public string Surname
+        {
+            get
+            {
+                return this.surname;
+            }
+            set
+            {
+                this.surname = value;
+            }
+        }
+
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+            set
+            {
+                this.name = value;
+            }
+        }
+
+        public string Patronymic
+        {
+            get
+            {
+                return this.patronymic;
+            }
+            set
+            {
+                this.patronymic = value;
+            }
+        }
+
+        public DateTime DateOfBirth
+        {
+            get
+            {
+                return this.dateOfBirth;
+            }
+            set
+            {
+                this.dateOfBirth = value;
+            }
+        }
+
+        public string PhoneNumber
+        {
+            get
+            {
+                return this.phoneNumber;
+            }
+            set
+            {
+                this.phoneNumber = value;
+            }
+        }
+
+        public string Email
+        {
+            get
+            {
+                return this.email;
+            }
+            set
+            {
+                this.email = value;
+            }
+        }
+
         public List<Petition> ClientPetitions { get; set; }
 
         public Client()

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using System.Threading.Channels;
 
 namespace ElectronicPetitionsProgramLab5
 {
@@ -77,6 +78,21 @@ namespace ElectronicPetitionsProgramLab5
         public static bool operator false(Petition petition)
         {
             return petition.SubscribersAmount >= 10;
+        }
+
+        public void Show()
+        {
+            Console.WriteLine(this.Name);
+        }
+
+        public int GetSubscribers()
+        {
+            return this.SubscribersAmount;
+        }
+        
+        public int AddAndGetSubscribers(int a)
+        {
+            return this.SubscribersAmount + a;
         }
     }
 }

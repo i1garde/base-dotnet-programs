@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj": {}
+    "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj": {
+    "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
+        "projectUniqueName": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
         "projectName": "ElectronicPetitionProgramLab4",
-        "projectPath": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
-        "packagesPath": "C:\\Users\\insane_dude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\obj\\",
+        "projectPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
+        "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
+        "outputPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\insane_dude\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\vanya\\.dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

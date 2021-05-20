@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicPetitionProgram", "ElectronicPetitionProgram\ElectronicPetitionProgram.csproj", "{3E9B79F9-AFE7-4319-AC35-A7C4F2700E86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicPetitionProgramLab2", "ElectronicPetitionProgramLab2\ElectronicPetitionProgramLab2.csproj", "{3E9B79F9-AFE7-4319-AC35-A7C4F2700E86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

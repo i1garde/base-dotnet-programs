@@ -16,11 +16,11 @@ namespace ElectronicPetitionsProgram
 
         public string GetInfo(Petition petition)
         {
-            return null;
+            return $"Name: {petition.Name}\nDescription: {petition.Description}";
         }
-        public void CreatePetition()
+        public void CreatePetition(string name, string description)
         {
-            ClientPetitions.Add(new Petition());
+            ClientPetitions.Add(new Petition(){Name = name, Description = description});
         }
 
         public void DeletePetition(Petition petition)
@@ -28,9 +28,10 @@ namespace ElectronicPetitionsProgram
             ClientPetitions.Remove(petition);
         }
 
-        public void EditPetition(Petition petition)
+        public void EditPetition(Petition petition, string name, string description)
         {
-            
+            petition.Name = name;
+            petition.Description = description;
         }
 
         public void SubscribePetition(Petition petition)

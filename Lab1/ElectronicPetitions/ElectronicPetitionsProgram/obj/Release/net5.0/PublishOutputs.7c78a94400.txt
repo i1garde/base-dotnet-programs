@@ -1,0 +1,5 @@
+D:\Prog Proj\C#\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Release\net5.0\publish\ElectronicPetitionsProgram.exe
+D:\Prog Proj\C#\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Release\net5.0\publish\ElectronicPetitionsProgram.dll
+D:\Prog Proj\C#\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Release\net5.0\publish\ElectronicPetitionsProgram.deps.json
+D:\Prog Proj\C#\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Release\net5.0\publish\ElectronicPetitionsProgram.runtimeconfig.json
+D:\Prog Proj\C#\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Release\net5.0\publish\ElectronicPetitionsProgram.pdb

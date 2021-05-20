@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vanya\\.nuget\\packages\\": {}
+    "C:\\Users\\insane_dude\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
+      "projectUniqueName": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
       "projectName": "ElectronicPetitionProgramLab4",
-      "projectPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
-      "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\obj\\",
+      "projectPath": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\ElectronicPetitionProgramLab4.csproj",
+      "packagesPath": "C:\\Users\\insane_dude\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\insane_dude\\RiderProjects\\base-dotnet-programs\\Lab4\\ElectronicPetitionLab4\\ElectronicPetitionProgramLab4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\insane_dude\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\vanya\\.dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

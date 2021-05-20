@@ -1,0 +1,16 @@
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.exe
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.deps.json
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.runtimeconfig.json
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.runtimeconfig.dev.json
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.dll
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ref\ElectronicPetitionsProgram.dll
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\bin\Debug\net5.0\ElectronicPetitionsProgram.pdb
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.csprojAssemblyReference.cache
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.AssemblyInfoInputs.cache
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.AssemblyInfo.cs
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.csproj.CoreCompileInputs.cache
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.dll
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ref\ElectronicPetitionsProgram.dll
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.pdb
+C:\Users\insane_dude\RiderProjects\base-dotnet-programs\Lab1\ElectronicPetitions\ElectronicPetitionsProgram\obj\Debug\net5.0\ElectronicPetitionsProgram.genruntimeconfig.cache

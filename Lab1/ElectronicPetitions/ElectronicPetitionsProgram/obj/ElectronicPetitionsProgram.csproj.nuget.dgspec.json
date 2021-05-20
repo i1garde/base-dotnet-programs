@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj": {}
+    "C:\\Trash\\Prog Proj\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj": {}
   },
   "projects": {
-    "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj": {
+    "C:\\Trash\\Prog Proj\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj",
+        "projectUniqueName": "C:\\Trash\\Prog Proj\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj",
         "projectName": "ElectronicPetitionsProgram",
-        "projectPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj",
+        "projectPath": "C:\\Trash\\Prog Proj\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\ElectronicPetitionsProgram.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "D:\\Prog Proj\\C#\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\obj\\",
+        "outputPath": "C:\\Trash\\Prog Proj\\base-dotnet-programs\\Lab1\\ElectronicPetitions\\ElectronicPetitionsProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\vanya\\.dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

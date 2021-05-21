@@ -44,6 +44,7 @@ namespace ElectronicPetitionProgramLab6
             Console.WriteLine("Лямбда-вираз");
             ShowNameDelegate myDelegate = petition1 => petition1.Name;
             Console.WriteLine(myDelegate(petition));
+            Console.ReadLine();
         }
     }
 }

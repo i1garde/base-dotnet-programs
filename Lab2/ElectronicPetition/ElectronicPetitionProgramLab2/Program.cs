@@ -44,6 +44,7 @@ namespace ElectronicPetitionProgramLab2
                               $"Date Of Birth: {client3.DateOfBirth}\n" +
                               $"Phone Number: {client3.PhoneNumber}\n" +
                               $"Email: {client3.Email}\n");
+            Console.ReadLine();
         }
     }
 }

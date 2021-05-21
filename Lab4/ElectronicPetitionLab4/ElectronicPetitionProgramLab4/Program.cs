@@ -73,6 +73,7 @@ namespace ElectronicPetitionProgramLab4
             {
                 Console.WriteLine("Первая петиция > вторая петиция");
             }
+            Console.ReadLine();
         }
     }
 }

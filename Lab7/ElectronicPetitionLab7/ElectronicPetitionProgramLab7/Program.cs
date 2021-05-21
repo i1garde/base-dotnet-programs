@@ -129,6 +129,7 @@ namespace ElectronicPetitionProgramLab7
             {
                 Console.WriteLine(e.Message);
             }
+            Console.ReadLine();
         }
     }
 }

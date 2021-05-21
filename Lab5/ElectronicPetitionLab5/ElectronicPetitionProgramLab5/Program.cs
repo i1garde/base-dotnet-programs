@@ -21,6 +21,7 @@ namespace ElectronicPetitionProgramLab5
             Console.WriteLine("Downcast Client to Moderator");
             Moderator downcastModerator = (Moderator) client1;
             downcastModerator.Show();
+            Console.ReadLine();
         }
     }
 }

@@ -1,16 +1,35 @@
 ﻿using System;
 using System.Data;
 using System.Threading.Channels;
+using ElectronicPetitionProgramLab7;
 
 namespace ElectronicPetitionsProgramLab5
 {
     public class Petition
     {
+        private int subscribersAmount;
+        
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public DateTime CreationData { get; set; }
-        public int SubscribersAmount { get; set; }
+
+        public int SubscribersAmount
+        {
+            get
+            {
+                return this.subscribersAmount;
+            }
+            set
+            {
+                if (value < 0)
+                    throw new Program.NegativeException();
+                if (value > 1000000)
+                    throw new ArgumentOutOfRangeException("subscribersAmount","All subscribers must not be more than 1000000.");
+                else
+                    this.subscribersAmount = value;
+            }
+        }
         public Category Category { get; set; }
         
         public Petition()
